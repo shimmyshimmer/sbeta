@@ -25,10 +25,16 @@ https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a
 
 Unsloth Studio is powered by Unsloth's training and inference engines.
 
-### 📚 Docs
+### ✨ Features
+- Unsloth makes fine-tuning 2-5x faster with 80% less memory
+- Inference and loading is 2x faster with Unsloth
+- No change of hardware. Supports NVIDIA GPUs since 2018+.
+- Runs locally on **Linux** and **Windows** via WSL.
+- Supports 4bit and 16bit QLoRA / LoRA finetuning via [bitsandbytes](https://github.com/TimDettmers/bitsandbytes).
 
--   Check out [our documentation](https://www.framer.com/docs/?utm_source=motion-readme-docs) for guides and a full API reference.
--   Or see [our examples](https://www.framer.com/docs/examples/?utm_source=motion-readme-docs) for inspiration.
+### 📚 Docs
+-   Check out [our documentation](https://docs.unsloth.ai/) for guides and a advanced features.
+-   See our full list of [supported models](https://docs.unsloth.ai/get-started/all-our-models).
 
 ### 💎 Contribute
 
