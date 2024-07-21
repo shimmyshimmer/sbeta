@@ -23,16 +23,22 @@ https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a
 
 <br>
 
-Unsloth Studio is powered by Unsloth's training and inference engines.
+<p align="center">
+<a href="https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png" height="48"></a>
+<a href="https://discord.gg/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png" height="48"></a>
+<a href="https://ko-fi.com/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/buy me a coffee button.png" height="48"></a>
+</p>
+
 
 ### ✨ Features
-- Unsloth makes fine-tuning 2-5x faster with 80% less memory
-- Inference and loading is 2x faster with Unsloth
+- Unsloth makes fine-tuning [2-5x faster](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking) with 80% less memory
+- [Inference](https://colab.research.google.com/drive/1aqlNQi7MMJbynFDyOQteD2t0yVfjb9Zh?usp=sharing) and loading is 2x faster with Unsloth
 - No change of hardware. Supports NVIDIA GPUs since 2018+.
 - Runs locally on **Linux** and **Windows** via WSL.
 - Supports 4bit and 16bit QLoRA / LoRA finetuning via [bitsandbytes](https://github.com/TimDettmers/bitsandbytes).
 
 ### 📚 Docs
+- Unsloth Studio is powered by [Unsloth's](https://github.com/unslothai/unsloth) training and inference engines.
 -   Check out [our documentation](https://docs.unsloth.ai/) for guides and a advanced features.
 -   See our full list of [supported models](https://docs.unsloth.ai/get-started/all-our-models).
 
