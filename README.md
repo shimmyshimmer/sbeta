@@ -1,8 +1,6 @@
-<h1 align="center" margin="0">
-  <img width="200" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png#gh-light-mode-only">
-  <img width="200" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png#gh-dark-mode-only">
-</h1>
-<h3 align="center" style="margin: 0;">
+<p align="center">
+  <img src="https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=300&quality=100" height="60" alt="Framer Motion Icon" /></p>
+<h1 align="center">Unsloth Studio</h1>
 <h3 align="center">
   User friendly WebUI to create & run custom LLMs.
 </h3>
@@ -11,7 +9,7 @@
 <br/>
 <p align="center">
   <a href="https://www.framer.com?utm_source=motion-readme">
-    <img src="https://framerusercontent.com/images/atXqxn4JhKm4LXVncdNjkKV7yCU.png" width="140" alt="Start for free" />
+    <img src="https://i.ibb.co/rGM1b0X/start-button.png" width="140" alt="Start for free" />
   </a>
 </p>
 <br/>
