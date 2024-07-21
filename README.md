@@ -23,9 +23,11 @@ https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a
 
 <div align="center">
 
-### [🖥️ Inference only](https://roadmap.sh) &nbsp;•&nbsp; [📚 Documentation](https://roadmap.sh/best-practices) &nbsp;•&nbsp; [<img height="16" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />&nbsp;Join our Discord](https://roadmap.sh/questions)
+### [Inference only](https://roadmap.sh) &nbsp;•&nbsp; [Documentation](https://roadmap.sh/best-practices) &nbsp;•&nbsp; [Join our Discord](https://roadmap.sh/questions)
 
 </div>
+
+<br>
 
 ### ✨ Features
 - Unsloth makes fine-tuning [2-5x faster](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking) with 80% less memory
