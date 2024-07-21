@@ -9,7 +9,7 @@
 <h3 align="center" style="margin: 0;">
 User friendly WebUI to create & run custom LLMs.
 </h3>
-<h3 align="center">Unsloth Studio creates finetuned models which you can chat with and save locally.
+<h3 align="center">Unsloth Studio creates finetuned models which you can chat with and save locally. Zero code and beginner friendly.
 </h3>
 <br/>
 <p align="center">
