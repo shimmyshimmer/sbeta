@@ -1,21 +1,23 @@
-<div align="center">
-
-  <a href="https://unsloth.ai"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png">
-    <img alt="unsloth logo" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png" height="110" style="max-width: 100%;">
-  </picture></a>
+<h1 align="center" margin="0">
+  <img width="200" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png#gh-light-mode-only">
+  <img width="200" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png#gh-dark-mode-only">
+</h1>
+<h3 align="center" style="margin: 0;">
+<h3 align="center">
+  User friendly WebUI to create & run custom LLMs.
+</h3>
+<h3 align="center"><a href="https://www.framer.com?utm_source=motion-readme">Unsloth</a> Studio creates finetuned models which you can chat with and save locally.
+</h3>
+<br/>
+<p align="center">
+  <a href="https://www.framer.com?utm_source=motion-readme">
+    <img src="https://framerusercontent.com/images/atXqxn4JhKm4LXVncdNjkKV7yCU.png" width="140" alt="Start for free" />
+  </a>
+</p>
+<br/>
+<p align="center">
   
-<a href="https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png" height="48"></a>
-<a href="https://discord.gg/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png" height="48"></a>
-<a href="https://ko-fi.com/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/buy me a coffee button.png" height="48"></a></div>
-
-<h2 align="center"> User friendly WebUI to create & run custom LLMs</h1>
-
-<p align="center">Unsloth Studio creates finetuned models which you can chat with, export or upload locally.</p>
-
-<div style="font-size: large">Click here to start UI</div>
-
+https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a9011f311
 
 ## 🦥 Unsloth.ai News
 - 📣 NEW! [Gemma-2-9b](https://colab.research.google.com/drive/1vIrqH5uYDQwsJ4-OO3DErvuv4pBgVwk4?usp=sharing) and Gemma-2-27b now supported
