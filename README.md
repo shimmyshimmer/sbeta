@@ -27,9 +27,7 @@ https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a
 
 </div>
 
-<br>
-
-### ✨ Features
+## ✨ Features
 - Unsloth makes fine-tuning [2-5x faster](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking) with 80% less memory
 - [Inference](https://colab.research.google.com/drive/1aqlNQi7MMJbynFDyOQteD2t0yVfjb9Zh?usp=sharing) and loading is 2x faster with Unsloth
 - No change of hardware. Supports NVIDIA GPUs since 2018+.
