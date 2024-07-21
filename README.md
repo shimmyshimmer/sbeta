@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=300&quality=100" height="60" alt="Framer Motion Icon" /></p>
-<h1 align="center">Unsloth Studio</h1>
-<h3 align="center">
-  User friendly WebUI to create & run custom LLMs.
+<h1 align="center" margin="0">
+  <a href="https://unsloth.ai"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/vPjCTt9/studio-logo-small.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/vPjCTt9/studio-logo-small.png">
+    <img alt="unsloth logo" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png" height="60" style="max-width: 100%;">
+  </picture></a>
+</h1>
+
+<h3 align="center" style="margin: 0;">
+User friendly WebUI to create & run custom LLMs.
 </h3>
 <h3 align="center"><a href="https://www.framer.com?utm_source=motion-readme">Unsloth</a> Studio creates finetuned models which you can chat with and save locally.
 </h3>
@@ -12,9 +17,8 @@
     <img src="https://i.ibb.co/rGM1b0X/start-button.png" width="140" alt="Start for free" />
   </a>
 </p>
-<br/>
-<p align="center">
-  
+<br>
+
 https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a9011f311
 
 ## 🦥 Unsloth.ai News
