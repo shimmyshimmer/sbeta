@@ -1,7 +1,7 @@
 <h1 align="center" margin="0">
   <a href="https://unsloth.ai"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/vPjCTt9/studio-logo-small.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/vPjCTt9/studio-logo-small.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/phm1qVZ/studio-beta-large-text.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/phm1qVZ/studio-beta-large-text.png">
     <img alt="unsloth logo" src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png" height="60" style="max-width: 100%;">
   </picture></a>
 </h1>
@@ -9,26 +9,23 @@
 <h3 align="center" style="margin: 0;">
 User friendly WebUI to create & run custom LLMs.
 </h3>
-<h3 align="center"><a href="https://www.framer.com?utm_source=motion-readme">Unsloth</a> Studio creates finetuned models which you can chat with and save locally.
+<h3 align="center">Unsloth Studio creates finetuned models which you can chat with and save locally.
 </h3>
 <br/>
 <p align="center">
   <a href="https://www.framer.com?utm_source=motion-readme">
-    <img src="https://i.ibb.co/rGM1b0X/start-button.png" width="140" alt="Start for free" />
+    <img src="https://i.ibb.co/rGM1b0X/start-button.png" height="45" alt="Start for free" />
   </a>
 </p>
 <br>
 
 https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a9011f311
 
-<br>
+<div align="center">
 
-<p align="center">
-<a href="https://colab.research.google.com/drive/135ced7oHytdxu3N2DNe1Z0kqjyYIkDXp?usp=sharing"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/start free finetune button.png" height="48"></a>
-<a href="https://discord.gg/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png" height="48"></a>
-<a href="https://ko-fi.com/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/buy me a coffee button.png" height="48"></a>
-</p>
+### [🖥️ Inference only](https://roadmap.sh) &nbsp;•&nbsp; [📚 Documentation](https://roadmap.sh/best-practices) &nbsp;•&nbsp; [<img height="16" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />&nbsp;Join our Discord](https://roadmap.sh/questions)
 
+</div>
 
 ### ✨ Features
 - Unsloth makes fine-tuning [2-5x faster](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking) with 80% less memory
