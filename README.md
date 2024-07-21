@@ -21,6 +21,27 @@ User friendly WebUI to create & run custom LLMs.
 
 https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a9011f311
 
+<br>
+
+Unsloth Studio is powered by Unsloth's training and inference engines.
+
+### 📚 Docs
+
+-   Check out [our documentation](https://www.framer.com/docs/?utm_source=motion-readme-docs) for guides and a full API reference.
+-   Or see [our examples](https://www.framer.com/docs/examples/?utm_source=motion-readme-docs) for inspiration.
+
+### 💎 Contribute
+
+-   Want to contribute to Framer Motion? Our [contributing guide](https://github.com/framer/motion/blob/master/CONTRIBUTING.md) has you covered.
+
+### 👩🏻‍⚖️ License
+
+-   Framer Motion is MIT licensed.
+
+### ✨ Framer
+
+-   Design and publish sites that inspire. [Try Framer for free](https://www.framer.com/?utm_source=motion-readme).
+
 ## 🦥 Unsloth.ai News
 - 📣 NEW! [Gemma-2-9b](https://colab.research.google.com/drive/1vIrqH5uYDQwsJ4-OO3DErvuv4pBgVwk4?usp=sharing) and Gemma-2-27b now supported
 - 📣 UPDATE! [Phi-3 mini](https://colab.research.google.com/drive/1hhdhBa1j_hsymiW9m-WzxQtgqTH_NHqi?usp=sharing) model updated
