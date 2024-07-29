@@ -23,23 +23,23 @@ https://github.com/nomic-ai/gpt4all/assets/70534565/513a0f15-4964-4109-89e4-4f9a
 
 <div align="center">
 
-### [Inference only](https://unsloth.ai/) &nbsp;•&nbsp; [Documentation](https://docs.unsloth.ai/) &nbsp;•&nbsp; [Join our Discord](https://discord.com/invite/unsloth)
+### [Inference only](https://colab.research.google.com/drive/1T-YBVfnphoVc8E2E854qF3jdia2Ll2W2?usp=sharing) &nbsp;•&nbsp; [Documentation](https://docs.unsloth.ai/) &nbsp;•&nbsp; [Join our Discord](https://discord.com/invite/unsloth)
 
 </div>
 
 ## ✨ Features
 - Unsloth makes fine-tuning **[2-5x faster](https://github.com/unslothai/unsloth/tree/main#-performance-benchmarking)** with **80% less memory**
-- [Inference](https://colab.research.google.com/drive/1aqlNQi7MMJbynFDyOQteD2t0yVfjb9Zh?usp=sharing) and loading is 2x faster with Unsloth.
+- [Inference](https://colab.research.google.com/drive/1T-YBVfnphoVc8E2E854qF3jdia2Ll2W2?usp=sharing) and loading is 2x faster with Unsloth.
 - Maximum context lengths can be increased by 3-8x with Unsloth.
 - Models can be exported to GGUF, Ollama, vLLM or uploaded to Hugging Face.
 - Runs locally on **Linux** and **Windows** via WSL.
 - Supports 4bit and 16bit QLoRA / LoRA finetuning via [bitsandbytes](https://github.com/TimDettmers/bitsandbytes).
 
 ## 🦥 Unsloth.ai News
+- 📣 NEW! [Llama 3.1 8b, 70b](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing) both Base and Instruct now supported
 - 📣 NEW! [Mistral Nemo-12b](https://colab.research.google.com/drive/17d3U-CAIwzmbDRqbZ9NnpHxCkmXB6LZ0?usp=sharing) both Base and Instruct now supported
 - 📣 NEW! [Gemma-2-9b](https://colab.research.google.com/drive/1vIrqH5uYDQwsJ4-OO3DErvuv4pBgVwk4?usp=sharing) and Gemma-2-27b now supported
-- 📣 UPDATE! [Phi-3 mini](https://colab.research.google.com/drive/1hhdhBa1j_hsymiW9m-WzxQtgqTH_NHqi?usp=sharing) model updated. [Phi-3 Medium](https://colab.research.google.com/drive/1hhdhBa1j_hsymiW9m-WzxQtgqTH_NHqi?usp=sharing) 2x faster finetuning.
-- 📣 NEW! Continued Pretraining [notebook](https://colab.research.google.com/drive/1tEd1FrOXWMnCU9UIvdYhs61tkxdMuKZu?usp=sharing) for other languages like Korean!
+- 📣 UPDATE! [Phi-3 mini](https://colab.research.google.com/drive/1hhdhBa1j_hsymiW9m-WzxQtgqTH_NHqi?usp=sharing) model updated. [Phi-3 Medium](https://colab.research.google.com/drive/1hhdhBa1j_hsymiW9m-WzxQtgqTH_NHqi?usp=sharing) released.
 
 ## 💎 Model Support
 Unsloth reduces memory usage by 80% and speeds up fine-tuning by 2-5x with no loss in accuracy.
@@ -48,7 +48,7 @@ Table below shows Unsloth's performance compared to Hugging Face + Flash Attenti
 
 | Unsloth supports | Parameters | Performance | Memory use |
 |-----------|---------|--------|----------|
-| **Llama 3**      | [8B](https://huggingface.co/unsloth/llama-3-8b-Instruct-bnb-4bit)&nbsp;•&nbsp;[70B](https://huggingface.co/unsloth/llama-3-70b-Instruct-bnb-4bit)               | 2x faster | 60% less |
+| **Llama 3.1**      | [8B](https://huggingface.co/unsloth/llama-3-8b-Instruct-bnb-4bit)&nbsp;•&nbsp;[70B](https://huggingface.co/unsloth/llama-3-70b-Instruct-bnb-4bit)               | 2x faster | 60% less |
 | **Mistral NeMo** | [12B](https://huggingface.co/unsloth/Mistral-Nemo-Instruct-2407-bnb-4bit)             | 2x faster | 60% less |
 | **Gemma 2**      | [9B](https://huggingface.co/unsloth/gemma-2-9b-it-bnb-4bit)&nbsp;•&nbsp;[27B](https://huggingface.co/unsloth/gemma-2-27b-it-bnb-4bit)               | 2x faster | 63% less |
 | **Phi-3** | [mini](https://huggingface.co/unsloth/Phi-3-mini-4k-instruct-bnb-4bit)&nbsp;•&nbsp;[medium](https://huggingface.co/unsloth/Phi-3-medium-4k-instruct-bnb-4bit)               | 2x faster | 50% less |
